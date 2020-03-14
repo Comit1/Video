@@ -1,3 +1,3 @@
 # Video
 
-Learn Video and OpenGL for Android.
+Learn Video Process for Android.
